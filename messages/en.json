@@ -1,0 +1,27 @@
+{
+  "topbar": {
+    "workTime": "Mon-Thu: 9:00 AM - 5:30 PM",
+    "address": "Visit our showroom in 1234 Street Address City Address, 1234",
+    "contact": "Contact Us",
+    "follow": "Follow Us: "
+  },
+  "header": {
+    "placeholder": "Search for products...",
+    "login": "Login",
+    "sign_up": "Sign up",
+    "cart": "Cart",
+    "products": "Products"
+  },
+  "navigate": {
+    "category": "Category",
+    "contact": "Contact",
+    "store": "Store system",
+    "news": "News",
+    "products": "Products",
+    "about": "About Us",
+    "sale_register": "Sale registration",
+    "policy": "Return policy",
+    "support": "Support center",
+    "tutorial": "Tutorial"
+  }
+}

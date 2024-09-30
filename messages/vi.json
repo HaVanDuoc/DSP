@@ -1,0 +1,27 @@
+{
+  "topbar": {
+    "workTime": "Thứ Hai - Thứ Năm: 9:00 AM - 5:30 PM",
+    "address": "Thăm showroom của chúng tôi tại 1234 Địa Chỉ Đường, Thành Phố, 1234",
+    "contact": "Liên hệ",
+    "follow": "Theo dõi: "
+  },
+  "header": {
+    "placeholder": "Tìm kiếm sản phẩm...",
+    "login": "Đăng nhập",
+    "sign_up": "Đăng ký",
+    "cart": "Giỏ hàng",
+    "products": "Sản phẩm"
+  },
+  "navigate": {
+    "category": "Danh mục",
+    "contact": "Liên hệ",
+    "store": "Hệ thống cửa hàng",
+    "news": "Tin tức",
+    "products": "Sản phẩm",
+    "about": "Về chúng tôi",
+    "sale_register": "Đăng ký bán hàng",
+    "policy": "Chính sách đổi trả",
+    "support": "Trung tâm hỗ trợ",
+    "tutorial": "Hướng dẫn"
+  }
+}
